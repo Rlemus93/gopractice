@@ -1,3 +1,3 @@
-go run main.go to run service 
+go run main.go to run
 
 Running on http://localhost:8000/
